@@ -1,4 +1,4 @@
-# GNTech Weather API 🌦️
+# Weather API 🌦️
 
 
 Esta aplicação consulta dados climáticos da API pública **OpenWeather**, grava os dados em um banco **PostgreSQL** e disponibiliza endpoints REST para consulta.
