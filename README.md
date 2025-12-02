@@ -18,5 +18,3 @@ O projeto foi desenvolvido com **FastAPI**, **SQLAlchemy**, **Pydantic** e **Pyt
 
 ---
 
-# 🏗️ Arquitetura
-
